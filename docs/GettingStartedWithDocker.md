@@ -1,8 +1,8 @@
 # Getting Started With Docker
 An overview of the communication between the different components of this application can be found in `docs/utgars_docker.drawio.xml`.
 
-## Utgar's Chronicles Container
-Utgar's Chronicles is a Laravel backend with a Javascript frontend. The Dockerfile & Docker Compose setup here assumes 
+## Holocron Container
+Holocron is a fork of Utgar's Chronicles which is a Laravel backend with a Javascript frontend. The Dockerfile & Docker Compose setup here assumes 
 both services are running on the same container. 
 
 ### First Time Setup 

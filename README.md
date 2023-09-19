@@ -1,4 +1,4 @@
-# Utgar's Chronicles
+# Holocron
 
 Source code of https://utgars-chronicles.app, a free web app to help you play Microscope online.
 
@@ -49,4 +49,4 @@ npm run development
 php artisan serve
 ```
 
-Your local instance of Utgar's Chronicles should be available from http://127.0.0.1:8000/
+Your local instance of Holocron should be available from http://127.0.0.1:8000/

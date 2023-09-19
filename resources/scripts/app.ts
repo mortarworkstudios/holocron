@@ -16,7 +16,7 @@ InertiaProgress.init({
 });
 
 createInertiaApp({
-    title: (title) => `${title} — Utgar's Chronicles`,
+    title: (title) => `${title} — Holocron`,
 
     // @ts-ignore
     resolve: (name) => resolvePageComponent(`./Pages/${name}.vue`, import.meta.glob('./Pages/**/*.vue')),

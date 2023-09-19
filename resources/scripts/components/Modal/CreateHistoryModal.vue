@@ -41,7 +41,7 @@
 
                 <div class="text-xs text-gray-600 mt-1">
                     This will allow you to invite players to your game that
-                    don't have a user account on Utgar's Chronicles.
+                    don't have a user account on Holocron.
                 </div>
             </div>
 

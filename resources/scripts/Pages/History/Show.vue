@@ -24,8 +24,7 @@
                     <div class="w-1/3 pr-4">
                         <h2 class="text-base text-gray-700 mb-2">Players</h2>
                         <p class="text-xs text-gray-600">
-                            Note that only players with an Account on Utgar's
-                            Chronicles will show up here. If you make this game
+                            Note that only players with an Account on Holocron will show up here. If you make this game
                             public, guests will show up inside the game, but not
                             on this overview.
                         </p>
@@ -144,14 +143,14 @@
                                     class="text-xs text-gray-600"
                                 >
                                     Making a game private means that only users
-                                    with an account on Utgar's Chronicles can
+                                    with an account on Holocron can
                                     join the game.
                                 </small>
                                 <small v-else class="text-xs text-gray-600">
                                     Making a game public means that anyone with
                                     an invitation link will be able to join the
                                     game. Even users that don't have an account
-                                    on Utgar's Chronicles.
+                                    on Holocron
                                 </small>
                             </div>
                         </div>

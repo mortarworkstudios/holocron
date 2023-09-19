@@ -19,8 +19,8 @@
                     <div class="md:w-2/3 lg:w-1/2">
                         <h1 class="text-3xl md:text-5xl font-bold tracking-wider text-white">Play Microscope online</h1>
                         <p class="text-indigo-200 mb-10">
-                            Utgar's Chronicles is a website that enables you to play Microscope with your friends all over the world.
-                            Completely for free. I just really like this game!
+                            Holocron is a website that enables you to play Microscope with your friends all over the world.
+                            Completely for free. Holocron is a fork of <a href="https://github.com/ksassnowski/utgars-chronicles.app">Utgar's Chronicles</a>
                         </p>
 
                         <Link
@@ -41,7 +41,8 @@
                         <li class="mb-8">
                             <p class="font-bold text-lg text-gray-800 mb-1">Is this an official product?</p>
                             <p class="text-gray-700">
-                                No, <strong>Utgar's Chronicles</strong> is a fan-made service to help you play Microscope online. It has no affiliation with Lame Mage Productions or Ben Robbins.
+                                No, Mortarwork Studios are hosting a forked version of <strong>Utgar's Chronicles</strong>, a fan-made service to help you play Microscope online. It has no affiliation with Lame Mage Productions or Ben Robbins. We intend to implement
+                                features that help us play Microscope online.
                             </p>
                         </li>
 
@@ -62,9 +63,17 @@
                         </li>
 
                         <li class="mb-8">
+                            <p class="font-bold text-lg text-gray-800 mb-1">Can I support the development and
+                                maintenance of the Holocron fork?</p>
+                            <p class="text-gray-700 mb-4">
+                                At this time we are not taking monetary contributions, but we do monitor the issues in our <a href="https://github.com/mortarworkstudios/holocron/">Github</a>.
+                            </p>
+                        </li>
+
+                        <li class="mb-8">
                             <p class="font-bold text-lg text-gray-800 mb-1">Can I support the development and maintenance of Utgar's Chronicles?</p>
                             <p class="text-gray-700 mb-4">
-                                Yes, thank you for asking! I do have a Patreon that you can use to help fund the development of this site.
+                                You can support the creator of Utgar's Chronicles on their Patreon.
                             </p>
                             <p class="flex justify-center mb-4">
                                 <a href="https://www.patreon.com/bePatron?u=4095316" data-patreon-widget-type="become-patron-button">Become a Patron!</a>
@@ -74,13 +83,6 @@
 
                             <p class="text-gray-700 mb-4">
                                 You can also <a href="https://github.com/sponsors/ksassnowski" target="_blank" rel="noreferrer noopener" class="text-indigo-700 font-semibold">sponsor me on GitHub</a>.
-                            </p>
-                        </li>
-
-                        <li class="mb-8">
-                            <p class="font-bold text-lg text-gray-800 mb-1">What's up with the name?</p>
-                            <p class="text-gray-700">
-                                Utgar was a character from our very first game of Microscope and has been a sort of running gag ever since.
                             </p>
                         </li>
                     </ul>

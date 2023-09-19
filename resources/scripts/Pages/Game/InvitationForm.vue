@@ -2,7 +2,7 @@
     <Head title="Join game" />
 
     <div class="container mx-auto px-4 h-full flex flex-col space-y-4 items-center justify-center">
-        <Link href="/" class="text-2xl font-bold tracking-tight text-gray-700">Utgar's Chronicles</Link>
+        <Link href="/" class="text-2xl font-bold tracking-tight text-gray-700">Holocron</Link>
 
         <Panel class="max-w-md">
             <form @submit.prevent="submit">
