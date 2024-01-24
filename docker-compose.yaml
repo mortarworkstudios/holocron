@@ -21,7 +21,7 @@ services:
       - APP_NAME=$APP_NAME
       - APP_ENV=$APP_ENV
       - LOG_CHANNEL=$LOG_CHANNEL
-    entrypoint: "./sh/run.sh"
+    entrypoint: "./sh/run.sh" && php artisan config:cache
 
   # database service
   mysql:
